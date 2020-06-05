@@ -1,8 +1,8 @@
 # [Database of databases for biology](https://www.dbdb.bio/)
 
 ## Database categories
-- [Literature databases](#Literature databases)
-- [Protein databases](#Protein databases)
+- [Literature databases](#literature-databases)
+- [Protein databases](#protein-databases)
 
 ## Literature databases
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - references and abstracts on life sciences and biomedical topics
