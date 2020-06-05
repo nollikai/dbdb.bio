@@ -1,2 +1,1 @@
-# dbdb.bio
-Database of databases for biology
+# Database of databases for biology
