@@ -1,4 +1,4 @@
-# [Database of databases for biology](https://www.dbdb.bio/)
+# Database of databases for biology [dbdb.bio](https://www.dbdb.bio/)
 
 ## Database categories
 - [Literature databases](#literature-databases)
@@ -12,3 +12,4 @@
 
 ### Protein sequence databases
 - [UniProt](https://www.uniprot.org/) - comprehensive resource for protein sequence and annotation data
+- [NCBI Protein](https://www.ncbi.nlm.nih.gov/protein/) - a collection of protein sequences from several sources
