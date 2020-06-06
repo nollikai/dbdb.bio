@@ -1,4 +1,4 @@
-# Database of databases for biology - [dbdb.bio](https://www.dbdb.bio/)
+# Database of databases for biology
 
 ## Database categories
 - [Literature databases](#literature-databases)
