@@ -31,6 +31,3 @@
 
 ### Protein interaction databases
 - [BioGRID](https://thebiogrid.org/) - protein interactions curated from the primary biomedical literature
-
-
-<a href="page2.html">test</a>
