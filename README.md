@@ -3,8 +3,10 @@
 ## Database categories
 - [Literature databases](#literature-databases)
 - [Protein databases](#protein-databases)
-
-
+- [Repeats databases](#repeats-databases)
+- [Plasmid databases](#plasmids)
+- [Restriction Enzyme Database](#restriction-enzyme-database)
+  
 ## Literature databases
 - [PubMed](https://pubmed.ncbi.nlm.nih.gov/) - references and abstracts on life sciences and biomedical topics
 - [bioRxiv](https://www.biorxiv.org/) - preprint repository for biological sciences
@@ -128,7 +130,6 @@
 
 ### Microsatellites
 
-- [FishMicrosat](http://mail.nbfgr.res.in/fishmicrosat/) - Fish	Microsatellites
 - [CAGm](http://www.cagmdb.org/) - Homo sapiens Microsatellites
 - [Boechera Microsatellite Database](http://sites.biology.duke.edu/windhamlab/) - Boechera Microsatellites
 - [Eggplant Microsatellite Database](http://www.eggplantmicrosatellite.org/egmidb/) - Solanum melogena Microsatellites
