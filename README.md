@@ -6,6 +6,7 @@
 - [RefSeq](http://www.ncbi.nlm.nih.gov/RefSeq) - NCBI Reference Sequence Database
 
 ## Protein databases
+- [Human Protein Atlas](https://www.proteinatlas.org/) - Tissue-based Map of the Human Proteome
 - [PDB](https://www.rcsb.org/) - The Protein Data Bank
 - [STRING](http://string-db.org) - Protein - protein interaction database
 - [Pfam](https://pfam.xfam.org/) - The Protein Families Database
@@ -29,7 +30,8 @@
 - [COSMIC](https://cancer.sanger.ac.uk/cosmic) - Catalogue of Somatic Mutations in Cancer
 
 ## Human genetic variation databases
-- [IGSR](https://www.internationalgenome.org/) - The International Genome Sample Resource
+- [1000 Genomes Project](https://www.internationalgenome.org/) - Deep Catalog of Human Genetic Variation
+- [gnomAD](https://gnomad.broadinstitute.org/) - Genome Aggregation Database
 - [dbSNP](https://www.ncbi.nlm.nih.gov/SNP) - NCBI Database of Genetic Variation
 
 ## miRNA databases
