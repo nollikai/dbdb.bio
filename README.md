@@ -3,9 +3,8 @@
 ## General databases
 - [KEGG](https://www.genome.jp/kegg/) - Kyoto Encyclopedia of Genes and Genomes
 - [RefSeq](http://www.ncbi.nlm.nih.gov/RefSeq) - NCBI Reference Sequence Database
-
 - [BioGRID](https://thebiogrid.org/) - A General Repository for Interaction Datasets
-- [NCBI GEO](https://www.ncbi.nlm.nih.gov/geo) - NCBI Gene Expression Omnibus
+- [OMIM](http://omim.org) - Online Mendelian Inheritance of Man
 
 ## Protein databases
 - [Human Protein Atlas](https://www.proteinatlas.org/) - Tissue-based Map of the Human Proteome
@@ -18,6 +17,11 @@
 - [PhosphoSitePlus](http://www.phosphosite.org/) - Mammalian Post-Translation Modifications
 - [SWISS-MODEL](https://swissmodel.expasy.org/) - Homology Models of Proteins and Complexes
 - [InterPro](http://www.ebi.ac.uk/interpro/) - Protein Families Database
+- [SMART](http://smart.embl.de/) - Protein Domain Annotations
+- [eggNOG](http://eggnog.embl.de) - Orthologous Groups of Proteins
+- [JASPAR](http://jaspar.genereg.net) - Transcription Factor Binding Profiles
+- [MitoCarta](http://www.broadinstitute.org/pubs/MitoCarta) - Inventory of Mammalian Mitochondrial Proteins
+- [COG](http://www.ncbi.nlm.nih.gov/COG/) - Clusters of Orthologous Groups of Proteins
 
 - [PDB](https://www.rcsb.org/) - The Protein Data Bank
 - [SCOP](http://scop.mrc-lmb.cam.ac.uk/) - Structural Classification of Proteins
@@ -35,11 +39,13 @@
 - [GtoPdb](http://www.guidetopharmacology.org) - Guide to Pharmacology
 
 ## Genome databases
-- [Ensembl](http://www.ensembl.org/) - Ensembl Genome Browser
+- [Ensembl Genomes](http://ensemblgenomes.org/) - Ensembl Database of Genomes
+- [UCSC Genome Browser](http://genome.ucsc.edu) - Genome Assemblies and Annotations
 
 
 ## Cancer databases
 - [COSMIC](https://cancer.sanger.ac.uk/cosmic) - Catalogue of Somatic Mutations in Cancer
+- [GDC Data Portal](https://portal.gdc.cancer.gov/) - Harmonized Cancer Datasets
 
 - [cBioPortal](http://cbioportal.org) - cBioPortal for Cancer Genomics
 - [CCLE](https://portals.broadinstitute.org/ccle) - Cancer Cell Line Encyclopedia
@@ -48,22 +54,49 @@
 - [1000 Genomes Project](https://www.internationalgenome.org/) - Deep Catalog of Human Genetic Variation
 - [gnomAD](https://gnomad.broadinstitute.org/) - Genome Aggregation Database
 - [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar) - Clinically Relevant Variants
-
+- [
 - [dbSNP](https://www.ncbi.nlm.nih.gov/SNP) - NCBI Database of Genetic Variation
 
 ## microRNA databases
 - [miRDB](http://mirdb.org/) - MicroRNA Target Database
-- [miRBase](http://www.mirbase.org/) - The microRNA database
+- [miTarBase](http://miRTarBase.mbc.nctu.edu.tw/) - MicroRNA Target Database
+- [miRWalk](http://mirwalk.umm.uni-heidelberg.de/) - MicroRNA Target Database
+- [miRBase](http://www.mirbase.org/) - MicroRNA database
 
+
+## Functional genomics databases
+- [NCBI GEO](https://www.ncbi.nlm.nih.gov/geo) - NCBI Gene Expression Omnibus
+- [ArrayExpress](https://www.ebi.ac.uk/arrayexpress/) - Archive of Functional Genomics Data
 
 ## Genome-wide association databases
 - [GWAS Catalog](https://www.ebi.ac.uk/gwas/) - Catalog of human genome-wide association studies
 
+## Pathway databases
+- [Reactome](http://www.reactome.org/) - Reactome Pathway Knowledgebase
 
+## Antibiotic resistance databses
+- [CARD](http://arpcard.mcmaster.ca) - Comprehensive Antibiotic Resistance Database
+
+## Natural product databases
+- [GNPS](http://gnps.ucsd.edu) - Global Natural Products Social Molecular Networking
+
+## RNA databases
+- [Rfam](http://rfam.xfam.org) - RNA Families Database
+
+## Drug databases
+- [DrugBank](https://www.drugbank.ca/) - Database of Drugs, Mechanisms, Interactions and Targets
+
+## Metabolome databases
+- [HMDB](http://www.hmdb.ca) - Human Metabolome Database
+
+## Immunology databases
+- [IEDB](https://www.iedb.org/) - Immune Epitopde Database
+- [IPD](https://www.ebi.ac.uk/ipd/) - Immuno Polymorphism Database
 
 ## Ribosome databases
 - [RDP](https://rdp.cme.msu.edu/) - Ribosomal Database Project
 - [SILVA](https://www.arb-silva.de) - Ribosomal RNA Gene Database Project
+
 
 
 
