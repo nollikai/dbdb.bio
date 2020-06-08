@@ -30,26 +30,34 @@
 - [HPRD](http://www.hprd.org/) - Human Protein Reference Database
 
 ## Gene databases
-- [Gene Ontology](http://geneontology.org/) - Gene Ontology Database
+- [GO](http://geneontology.org/) - Gene Ontology Database
 - [HGNC](https://www.genenames.org/) - HUGO Gene Nomenclature Committee
 
-## Chemical databases
-- [PubChem](https://pubchem.ncbi.nlm.nih.gov) - Chemical Substance and Compound Database
+## Gene expression databases
+- [Expression Atlas](http://www.ebi.ac.uk/gxa) - Gene Expression in Humans, Animals and Plants
 
-## Pharmacology databases
+## Small molecule databases
+- [DrugBank](https://www.drugbank.ca/) - Database of Drugs, Mechanisms, Interactions and Targets
+- [ChEMBL](https://www.ebi.ac.uk/chembl/) - Large-scale Bioactivity Database
+- [PubChem](https://pubchem.ncbi.nlm.nih.gov) - Chemical Substance and Compound Database
 - [GtoPdb](http://www.guidetopharmacology.org) - Guide to Pharmacology
+- [APD3](http://aps.unmc.edu/AP/) - Antimicrobial Peptide Database
+- [GNPS](http://gnps.ucsd.edu) - Global Natural Products Social Molecular Networking
+- [HMDB](http://www.hmdb.ca) - Human Metabolome Database
 
 ## Genome databases
 - [Ensembl Genomes](http://ensemblgenomes.org/) - Ensembl Database of Genomes
 - [UCSC Genome Browser](http://genome.ucsc.edu) - Genome Assemblies and Annotations
+- [GTDB](https://gtdb.ecogenomic.org/) - Genome Taxonomy Database
 
 ## Disease databases
 - [DisGeNET](http://www.disgenet.org) - Human Disease-Associated Genes and Variants
 - [UK Biobank](https://www.ukbiobank.ac.uk/) - UK Human Health Database
+- [DO](http://www.disease-ontology.org) - Human Disease Ontology
 
 ## Cancer databases
 - [COSMIC](https://cancer.sanger.ac.uk/cosmic) - Catalogue of Somatic Mutations in Cancer
-- [GDC Data Portal](https://portal.gdc.cancer.gov/) - Harmonized Cancer Datasets
+- [TCGA](https://portal.gdc.cancer.gov/) - The Cancer Genome Atlas
 
 - [cBioPortal](http://cbioportal.org) - cBioPortal for Cancer Genomics
 - [CCLE](https://portals.broadinstitute.org/ccle) - Cancer Cell Line Encyclopedia
@@ -59,6 +67,7 @@
 - [gnomAD](https://gnomad.broadinstitute.org/) - Genome Aggregation Database
 - [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar) - Clinically Relevant Variants
 - [ClinGen](https://clinicalgenome.org/) - Clinical Genome Resource
+- [HGMD](http://www.hgmd.cf.ac.uk/ac/index.php) - Human Gene Mutation Database
 
 - [dbSNP](https://www.ncbi.nlm.nih.gov/SNP) - NCBI Database of Genetic Variation
 
@@ -84,24 +93,13 @@
 ## Antibiotic resistance databses
 - [CARD](http://arpcard.mcmaster.ca) - Comprehensive Antibiotic Resistance Database
 
-## Antimicrobial peptide databases
-- [APD3](http://aps.unmc.edu/AP/) - Antimicrobial Peptide Database
-
-## Natural product databases
-- [GNPS](http://gnps.ucsd.edu) - Global Natural Products Social Molecular Networking
 
 ## RNA databases
 - [Rfam](http://rfam.xfam.org) - RNA Families Database
-
-## Drug databases
-- [DrugBank](https://www.drugbank.ca/) - Database of Drugs, Mechanisms, Interactions and Targets
-- [ChEMBL](https://www.ebi.ac.uk/chembl/) - Large-scale Bioactivity Database
+- [MODOMICS](http://modomics.genesilico.pl) - Database of RNA Modifications
 
 ## Proteomics databases
 - [ProteomeXchange](http://www.proteomexchange.org/) - ProteomeXchange Consortium of Proteomics Resources
-
-## Metabolome databases
-- [HMDB](http://www.hmdb.ca) - Human Metabolome Database
 
 ## Immunology databases
 - [IEDB](https://www.iedb.org/) - Immune Epitopde Database
@@ -110,6 +108,7 @@
 ## Bacteria databases
 - [PATRIC](https://www.patricbrc.org/) - Bacterial Bioinformatics Database
 - [VFDB](http://www.mgc.ac.cn/VFs/main.htm) - Virulence Factor Database
+- [Pseudomonas Genome DB](http://www.pseudomonas.com) - Pseudomonas Genome Database
 
 ## Plant databases
 - [PlantTFDB](http://planttfdb.cbi.pku.edu.cn/) - Plant Transcription Factor Databases
@@ -119,6 +118,10 @@
 
 ## Restriction enzyme databases
 - [REBASE](http://rebase.neb.com) - Restriction Enzyme Database
+
+## Miscellaneous databses
+- [ExoCarta](http://www.exocarta.org) - Compendium of Exosome Proteins, RNAs and Lipds
+- [MEROPS](http://merops.sanger.ac.uk) - Peptidase Database
 
 ## Ribosome databases
 - [RDP](https://rdp.cme.msu.edu/) - Ribosomal Database Project
