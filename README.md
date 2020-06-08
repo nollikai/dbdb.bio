@@ -7,6 +7,10 @@
 - [PDB](https://www.rcsb.org/) - Protein Data Bank
 - [STRING](http://string-db.org) - Protein - protein interaction database
 - [Pfam](https://pfam.xfam.org/) - The Protein Families Database
+- [SCOP](http://scop.mrc-lmb.cam.ac.uk/) - Structural Classification of Proteins
+- [UniProt](http://www.uniprot.org/) - Hub for Protein Information
+- [CAZy](http://www.cazy.org/) - Carbohydrate-Active Enzyme database 
+- [COG](http://www.ncbi.nlm.nih.gov/COG) - Clusters of Orthologous Genes
 
 ## Genomics databases
 - [NCBI GEO](https://www.ncbi.nlm.nih.gov/geo) - NCBI Gene Expression Omnibus
