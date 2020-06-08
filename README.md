@@ -12,7 +12,7 @@
 - [SCOP](http://scop.mrc-lmb.cam.ac.uk/) - Structural Classification of Proteins
 - [UniProt](http://www.uniprot.org/) - Hub for Protein Information
 - [CAZy](http://www.cazy.org/) - Carbohydrate-Active Enzyme database 
-- [COG](http://www.ncbi.nlm.nih.gov/COG) - Clusters of Orthologous Genes
+- [COG](http://www.ncbi.nlm.nih.gov/COG) - Clusters of Orthologous Groups of Proteins
 - [HPRD](http://www.hprd.org/) - Human Protein Reference Database
 - [CDD](https://www.ncbi.nlm.nih.gov/Structure/cdd/cdd.shtml) - Conserved Domain Database
 
