@@ -39,7 +39,7 @@
 - [Repbase](https://www.girinst.org/repbase/) - Database of Eukaryotic Repetitive Elements
 
 ## Genome-wide association databases
-- [NHGRI-EBI GWAS Catalog](https://www.ebi.ac.uk/gwas/) - Catalog of human genome-wide association studies
+- [GWAS Catalog](https://www.ebi.ac.uk/gwas/) - Catalog of human genome-wide association studies
 
 ## Plant databases
 - [Phytozome](https://phytozome.jgi.doe.gov/pz/portal.html) - Comparative Platform for Green Plant Genomics
