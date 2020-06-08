@@ -36,7 +36,7 @@
 - [miRBase](http://www.mirbase.org/) - The microRNA database
 
 ## Repetitive DNA databases
-- [Repbase](https://www.girinst.org/repbase/ - Database of Eukaryotic Repetitive Elements
+- [Repbase](https://www.girinst.org/repbase/) - Database of Eukaryotic Repetitive Elements
 
 ## Genome-wide association databases
 - [NHGRI-EBI GWAS Catalog](https://www.ebi.ac.uk/gwas/) - Catalog of human genome-wide association studies
