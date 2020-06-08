@@ -2,13 +2,12 @@
 
 ## General databases
 - [KEGG](https://www.genome.jp/kegg/) - Kyoto Encyclopedia of Genes and Genomes
-- [RefSeq](http://www.ncbi.nlm.nih.gov/RefSeq) - NCBI Reference Sequence Database
-- [BioGRID](https://thebiogrid.org/) - A General Repository for Interaction Datasets
-- [OMIM](http://omim.org) - Online Mendelian Inheritance of Man
+- [EBI](https://www.ebi.ac.uk/services/all) - European Bioinformatics Institute Data Resources
 
 ## Protein databases
 - [Human Protein Atlas](https://www.proteinatlas.org/) - Tissue-based Map of the Human Proteome
 - [STRING](http://string-db.org) - Protein - protein interaction database
+- [BioGRID](https://thebiogrid.org/) - Protein - protein interaction database
 - [Pfam](https://pfam.xfam.org/) - Protein Families Database
 - [UniProt](http://www.uniprot.org/) - Hub for Protein Information
 - [PRIDE](https://www.ebi.ac.uk/pride/archive) - Proteomics Identification Database
@@ -22,19 +21,30 @@
 - [JASPAR](http://jaspar.genereg.net) - Transcription Factor Binding Profiles
 - [MitoCarta](http://www.broadinstitute.org/pubs/MitoCarta) - Inventory of Mammalian Mitochondrial Proteins
 - [COG](http://www.ncbi.nlm.nih.gov/COG/) - Clusters of Orthologous Groups of Proteins
-
 - [PDB](https://www.rcsb.org/) - The Protein Data Bank
-- [SCOP](http://scop.mrc-lmb.cam.ac.uk/) - Structural Classification of Proteins
-- [CAZy](http://www.cazy.org/) - Carbohydrate-Active Enzyme database 
-- [COG](http://www.ncbi.nlm.nih.gov/COG) - Clusters of Orthologous Groups of Proteins
-- [HPRD](http://www.hprd.org/) - Human Protein Reference Database
+- [IEDB](https://www.iedb.org/) - Immune Epitope Database
+- [ProteomeXchange](http://www.proteomexchange.org/) - ProteomeXchange Consortium of Proteomics Resources
+
+## RNA databases
+- [Expression Atlas](http://www.ebi.ac.uk/gxa) - Gene Expression in Humans, Animals and Plants
+- [Rfam](http://rfam.xfam.org) - RNA Families Database
+- [MODOMICS](http://modomics.genesilico.pl) - Database of RNA Modifications
+- [lncRNAdb](http://lncrnadb.org/) - Reference Database for Long Non-coding RNAs
+- [miRDB](http://mirdb.org/) - MicroRNA Target Database
+- [miTarBase](http://miRTarBase.mbc.nctu.edu.tw/) - MicroRNA Target Database
+- [miRWalk](http://mirwalk.umm.uni-heidelberg.de/) - MicroRNA Target Database
+- [TarBase](http://carolina.imis.athena-innovation.gr/diana_tools/web/index.php?r=tarbasev8%2Findex) - MicroRNA Target Database
+- [miRBase](http://www.mirbase.org/) - MicroRNA database
+- [NONCODE](http://www.noncode.org/) - Database of Non-coding RNAs
+
+## DNA databases
+- [GenBank](https://www.ncbi.nlm.nih.gov/genbank/) - Database of DNA Sequences
+- [RefSeq](http://www.ncbi.nlm.nih.gov/RefSeq/) - NCBI Reference Sequence Database
 
 ## Gene databases
 - [GO](http://geneontology.org/) - Gene Ontology Database
 - [HGNC](https://www.genenames.org/) - HUGO Gene Nomenclature Committee
-
-## Gene expression databases
-- [Expression Atlas](http://www.ebi.ac.uk/gxa) - Gene Expression in Humans, Animals and Plants
+- [GeneCards](https://www.genecards.org/) - Human Gene Database
 
 ## Small molecule databases
 - [DrugBank](https://www.drugbank.ca/) - Database of Drugs, Mechanisms, Interactions and Targets
@@ -44,23 +54,21 @@
 - [APD3](http://aps.unmc.edu/AP/) - Antimicrobial Peptide Database
 - [GNPS](http://gnps.ucsd.edu) - Global Natural Products Social Molecular Networking
 - [HMDB](http://www.hmdb.ca) - Human Metabolome Database
+- [ZINC](https://zinc.docking.org/) - Commercially Available Compounds for Virtual Screening
 
 ## Genome databases
 - [Ensembl Genomes](http://ensemblgenomes.org/) - Ensembl Database of Genomes
 - [UCSC Genome Browser](http://genome.ucsc.edu) - Genome Assemblies and Annotations
 - [GTDB](https://gtdb.ecogenomic.org/) - Genome Taxonomy Database
+- [MGD](http://www.informatics.jax.org) - Mouse Genome Database
 
 ## Disease databases
 - [DisGeNET](http://www.disgenet.org) - Human Disease-Associated Genes and Variants
 - [UK Biobank](https://www.ukbiobank.ac.uk/) - UK Human Health Database
 - [DO](http://www.disease-ontology.org) - Human Disease Ontology
-
-## Cancer databases
+- [OMIM](http://omim.org) - Online Mendelian Inheritance of Man
 - [COSMIC](https://cancer.sanger.ac.uk/cosmic) - Catalogue of Somatic Mutations in Cancer
 - [TCGA](https://portal.gdc.cancer.gov/) - The Cancer Genome Atlas
-
-- [cBioPortal](http://cbioportal.org) - cBioPortal for Cancer Genomics
-- [CCLE](https://portals.broadinstitute.org/ccle) - Cancer Cell Line Encyclopedia
 
 ## Human genetic variation databases
 - [1000 Genomes Project](https://www.internationalgenome.org/) - Deep Catalog of Human Genetic Variation
@@ -68,70 +76,31 @@
 - [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar) - Clinically Relevant Variants
 - [ClinGen](https://clinicalgenome.org/) - Clinical Genome Resource
 - [HGMD](http://www.hgmd.cf.ac.uk/ac/index.php) - Human Gene Mutation Database
-
-- [dbSNP](https://www.ncbi.nlm.nih.gov/SNP) - NCBI Database of Genetic Variation
-
-## microRNA databases
-- [miRDB](http://mirdb.org/) - MicroRNA Target Database
-- [miTarBase](http://miRTarBase.mbc.nctu.edu.tw/) - MicroRNA Target Database
-- [miRWalk](http://mirwalk.umm.uni-heidelberg.de/) - MicroRNA Target Database
-- [TarBase](http://carolina.imis.athena-innovation.gr/diana_tools/web/index.php?r=tarbasev8%2Findex) - MicroRNA Target Database
-- [miRBase](http://www.mirbase.org/) - MicroRNA database
-
+- [IPD](https://www.ebi.ac.uk/ipd/) - Immuno Polymorphism Database
+- [AFND](http://www.allelefrequencies.net) - Allele Frequency Net Database
 
 ## Functional genomics databases
 - [NCBI GEO](https://www.ncbi.nlm.nih.gov/geo) - NCBI Gene Expression Omnibus
 - [ArrayExpress](https://www.ebi.ac.uk/arrayexpress/) - Archive of Functional Genomics Data
+- [FANTOM](https://fantom.gsc.riken.jp/) - Functional Annotation of the Mammalian Genome
 
 ## Genome-wide association databases
 - [GWAS Catalog](https://www.ebi.ac.uk/gwas/) - Catalog of human genome-wide association studies
+- [LD Hub](http://ldsc.broadinstitute.org/ldhub/) - Summary-level genome-wide association results
 
 ## Pathway databases
 - [Reactome](http://www.reactome.org/) - Reactome Pathway Knowledgebase
 - [MetaCyc](https://metacyc.org/) - Metabolic Pathways database
-
-## Antibiotic resistance databses
-- [CARD](http://arpcard.mcmaster.ca) - Comprehensive Antibiotic Resistance Database
-
-
-## RNA databases
-- [Rfam](http://rfam.xfam.org) - RNA Families Database
-- [MODOMICS](http://modomics.genesilico.pl) - Database of RNA Modifications
-
-## Proteomics databases
-- [ProteomeXchange](http://www.proteomexchange.org/) - ProteomeXchange Consortium of Proteomics Resources
-
-## Immunology databases
-- [IEDB](https://www.iedb.org/) - Immune Epitopde Database
-- [IPD](https://www.ebi.ac.uk/ipd/) - Immuno Polymorphism Database
 
 ## Bacteria databases
 - [PATRIC](https://www.patricbrc.org/) - Bacterial Bioinformatics Database
 - [VFDB](http://www.mgc.ac.cn/VFs/main.htm) - Virulence Factor Database
 - [Pseudomonas Genome DB](http://www.pseudomonas.com) - Pseudomonas Genome Database
 
-## Plant databases
-- [PlantTFDB](http://planttfdb.cbi.pku.edu.cn/) - Plant Transcription Factor Databases
-
-## Fly databases
-- [FlyBase](https://flybase.org/) - Database of Drosophila Genes and Genomes
-
-## Restriction enzyme databases
-- [REBASE](http://rebase.neb.com) - Restriction Enzyme Database
-
 ## Miscellaneous databses
 - [ExoCarta](http://www.exocarta.org) - Compendium of Exosome Proteins, RNAs and Lipds
 - [MEROPS](http://merops.sanger.ac.uk) - Peptidase Database
-
-## Ribosome databases
-- [RDP](https://rdp.cme.msu.edu/) - Ribosomal Database Project
-- [SILVA](https://www.arb-silva.de) - Ribosomal RNA Gene Database Project
-
-
-
-
-## Repetitive DNA databases
-- [Repbase](https://www.girinst.org/repbase/) - Database of Eukaryotic Repetitive Elements
-
-## Plant databases
-- [Phytozome](https://phytozome.jgi.doe.gov/pz/portal.html) - Comparative Platform for Green Plant Genomics
+- [REBASE](http://rebase.neb.com) - Restriction Enzyme Database
+- [FlyBase](https://flybase.org/) - Database of Drosophila Genes and Genomes
+- [PlantTFDB](http://planttfdb.cbi.pku.edu.cn/) - Plant Transcription Factor Databases
+- [CARD](http://arpcard.mcmaster.ca) - Comprehensive Antibiotic Resistance Database
