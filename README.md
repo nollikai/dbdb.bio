@@ -6,6 +6,7 @@
 ## Protein databases
 - [PDB](https://www.rcsb.org/) - Protein Data Bank
 - [STRING](http://string-db.org) - Protein - protein interaction database
+- [Pfam](https://pfam.xfam.org/) - The Protein Families Database
 
 ## Genomics databases
 - [NCBI GEO](https://www.ncbi.nlm.nih.gov/geo) - NCBI Gene Expression Omnibus
@@ -16,6 +17,7 @@
 
 ## Cancer databases
 - [cBioPortal](http://cbioportal.org) - cBioPortal for Cancer Genomics
+- [CCLE](https://portals.broadinstitute.org/ccle) - Cancer Cell Line Encyclopedia
 
 ## Human genetic variation databases
 - [IGSR](https://www.internationalgenome.org/) - The International Genome Sample Resource
