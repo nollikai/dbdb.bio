@@ -31,6 +31,7 @@
 
 ## Gene databases
 - [Gene Ontology](http://geneontology.org/) - Gene Ontology Database
+- [HGNC](https://www.genenames.org/) - HUGO Gene Nomenclature Committee
 
 ## Chemical databases
 - [PubChem](https://pubchem.ncbi.nlm.nih.gov) - Chemical Substance and Compound Database
@@ -42,6 +43,9 @@
 - [Ensembl Genomes](http://ensemblgenomes.org/) - Ensembl Database of Genomes
 - [UCSC Genome Browser](http://genome.ucsc.edu) - Genome Assemblies and Annotations
 
+## Disease databases
+- [DisGeNET](http://www.disgenet.org) - Human Disease-Associated Genes and Variants
+- [UK Biobank](https://www.ukbiobank.ac.uk/) - UK Human Health Database
 
 ## Cancer databases
 - [COSMIC](https://cancer.sanger.ac.uk/cosmic) - Catalogue of Somatic Mutations in Cancer
@@ -54,13 +58,15 @@
 - [1000 Genomes Project](https://www.internationalgenome.org/) - Deep Catalog of Human Genetic Variation
 - [gnomAD](https://gnomad.broadinstitute.org/) - Genome Aggregation Database
 - [ClinVar](https://www.ncbi.nlm.nih.gov/clinvar) - Clinically Relevant Variants
-- [
+- [ClinGen](https://clinicalgenome.org/) - Clinical Genome Resource
+
 - [dbSNP](https://www.ncbi.nlm.nih.gov/SNP) - NCBI Database of Genetic Variation
 
 ## microRNA databases
 - [miRDB](http://mirdb.org/) - MicroRNA Target Database
 - [miTarBase](http://miRTarBase.mbc.nctu.edu.tw/) - MicroRNA Target Database
 - [miRWalk](http://mirwalk.umm.uni-heidelberg.de/) - MicroRNA Target Database
+- [TarBase](http://carolina.imis.athena-innovation.gr/diana_tools/web/index.php?r=tarbasev8%2Findex) - MicroRNA Target Database
 - [miRBase](http://www.mirbase.org/) - MicroRNA database
 
 
@@ -73,9 +79,13 @@
 
 ## Pathway databases
 - [Reactome](http://www.reactome.org/) - Reactome Pathway Knowledgebase
+- [MetaCyc](https://metacyc.org/) - Metabolic Pathways database
 
 ## Antibiotic resistance databses
 - [CARD](http://arpcard.mcmaster.ca) - Comprehensive Antibiotic Resistance Database
+
+## Antimicrobial peptide databases
+- [APD3](http://aps.unmc.edu/AP/) - Antimicrobial Peptide Database
 
 ## Natural product databases
 - [GNPS](http://gnps.ucsd.edu) - Global Natural Products Social Molecular Networking
@@ -85,6 +95,10 @@
 
 ## Drug databases
 - [DrugBank](https://www.drugbank.ca/) - Database of Drugs, Mechanisms, Interactions and Targets
+- [ChEMBL](https://www.ebi.ac.uk/chembl/) - Large-scale Bioactivity Database
+
+## Proteomics databases
+- [ProteomeXchange](http://www.proteomexchange.org/) - ProteomeXchange Consortium of Proteomics Resources
 
 ## Metabolome databases
 - [HMDB](http://www.hmdb.ca) - Human Metabolome Database
@@ -92,6 +106,19 @@
 ## Immunology databases
 - [IEDB](https://www.iedb.org/) - Immune Epitopde Database
 - [IPD](https://www.ebi.ac.uk/ipd/) - Immuno Polymorphism Database
+
+## Bacteria databases
+- [PATRIC](https://www.patricbrc.org/) - Bacterial Bioinformatics Database
+- [VFDB](http://www.mgc.ac.cn/VFs/main.htm) - Virulence Factor Database
+
+## Plant databases
+- [PlantTFDB](http://planttfdb.cbi.pku.edu.cn/) - Plant Transcription Factor Databases
+
+## Fly databases
+- [FlyBase](https://flybase.org/) - Database of Drosophila Genes and Genomes
+
+## Restriction enzyme databases
+- [REBASE](http://rebase.neb.com) - Restriction Enzyme Database
 
 ## Ribosome databases
 - [RDP](https://rdp.cme.msu.edu/) - Ribosomal Database Project
