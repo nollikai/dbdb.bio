@@ -7,7 +7,7 @@
 - [PDB](https://www.rcsb.org/) - Protein Data Bank
 - [STRING](http://string-db.org) - Protein - protein interaction database
 
-## Sequencing databases
+## Genomics databases
 - [NCBI GEO](https://www.ncbi.nlm.nih.gov/geo) - Gene Expression Omnibus
 
 ## Ribosomal RNA databases
