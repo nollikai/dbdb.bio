@@ -5,6 +5,7 @@
 
 ## Protein databases
 - [PDB](https://www.rcsb.org/) - Protein Data Bank
+- [STRING](http://string-db.org) - Protein - protein interaction database
 
 ## Sequencing databases
 - [NCBI GEO](https://www.ncbi.nlm.nih.gov/geo) - Gene Expression Omnibus
@@ -13,8 +14,8 @@
 - [RDP](https://rdp.cme.msu.edu/) - Ribosomal Database Project
 - [SILVA](https://www.arb-silva.de) - Ribosomal RNA Gene Database Project
 
-# Cancer databases
+## Cancer databases
 - [cBioPortal](http://cbioportal.org) - cBioPortal for Cancer Genomics
 
-# Human genetic variation databases
+## Human genetic variation databases
 - [IGSR](https://www.internationalgenome.org/) - The International Genome Sample Resource
