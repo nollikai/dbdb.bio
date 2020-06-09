@@ -111,7 +111,7 @@
 - [SIDER](http://sideeffects.embl.de/) - Drugs and Side-effects Database
 - [CheBI](http://www.ebi.ac.uk/chebi) - Chemical Entities of Biological Interest
 - [BindingDB](https://www.bindingdb.org/) - Protein - Small Molecule Interaction Database
-- [DGIdb](www.dgidb.org) - Drug - Gene Interation Database
+- [DGIdb](http://www.dgidb.org) - Drug - Gene Interation Database
 
 ## Pathway databases
 - [Reactome](http://www.reactome.org/) - Reactome Pathway Knowledgebase
